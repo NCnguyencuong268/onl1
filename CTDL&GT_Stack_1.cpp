@@ -13,7 +13,7 @@ public:
 
 	Stack()
 	{
-		top = 0; /* Khi stack rô~ng, top = 0 */
+		top = 0; /* Khi stack rÃ´~ng, top = 0 */
 	}
 
 	void Push(int n) 
