@@ -3,12 +3,12 @@
 #include <iostream>
 using namespace std;
 void Selection_Sort(int a[], int n){
-	int min;//v? trí ph?n t? nh? nh?t trong dãy hi?n hành
+	int min;
 	for(int i=0; i<n-1; i++){
 		min = i;
 		for(int j=i+1; j<n; j++){
 			if (a[j] < a[min]){
-				min = j;//ghi nh?n v? trí ph?n t? nh? nh?t
+				min = j;
 			}
 		}
 		swap(a[min], a[i]);
