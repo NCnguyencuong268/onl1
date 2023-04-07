@@ -40,7 +40,7 @@ void max_heap_sort(int A[ ])
 int main() {
     int A[N+1] = {-1,8,4,7,1,3,5}; 
     max_heap_sort(A);
-    printf("\n\tGi· tri\n");
+    printf("\n\tGi√° tri\n");
     printf("\t");
     for (int i = 0; i < N+1; i++) { 
         printf("%d    ", A[i]);
