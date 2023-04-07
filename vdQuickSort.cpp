@@ -1,4 +1,4 @@
-//Nguon tham khao: 
+//Nguon tham khao: https://freetuts.net/thuat-toan-sap-xep-nhanh-quick-sort-2940.html
 
 #include <iostream>
 using namespace std;
