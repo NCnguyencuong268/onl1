@@ -55,6 +55,6 @@ int main()
     int n = sizeof(arr)/sizeof(arr[0]);
     quickSort(arr, 0, n-1);
    
-    cout<<"M?ng sau khi du?c s?p x?p: \n";
+    cout<<"Mang sau khi duoc sap xep: \n";
     printArray(arr, n);
 }
